@@ -4,7 +4,7 @@ public static class Program
 {
     private static void Main(string[] args)
     {
-        var day = new Day1.Day1();
+        var day = new Day2.Day2();
         var result1 = day.Part1();
         Console.WriteLine("Part1: " + result1);
         
