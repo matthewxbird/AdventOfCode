@@ -2,9 +2,9 @@
 
 public static class Program
 {
-    private static void Main(string[] args)
+    private static void Main()
     {
-        var day = new Day2.Day2();
+        var day = new Day3.Day3();
         var result1 = day.Part1();
         Console.WriteLine("Part1: " + result1);
         
